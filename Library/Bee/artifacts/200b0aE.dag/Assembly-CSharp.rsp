@@ -402,6 +402,7 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.57f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.57f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Script/Bullet.cs"
+"Assets/Script/Enemy.cs"
 "Assets/Script/PlayerFire.cs"
 "Assets/Script/PlayerMove.cs"
 -langversion:9.0
